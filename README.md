@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Leo!</h1>
-<h3 align="center">A passionate business intelligence engineer intern @ Amazon London <br> & <br> computer science student @ The University of Edinburgh</h3>
+<h1 align="center">Hi, I'm Leo!</h1>
+<h3 align="center">A Business Intelligence Engineer @ Amazon London <br> & <br> Computer Science graduate from The University of Edinburgh</h3>
 
 - 📫 How to reach me https://www.linkedin.com/in/leokra/
 
